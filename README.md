@@ -55,6 +55,8 @@ MATH241 多变量微积分主要研究多元函数的微积分理论及其应用
 
 ```plaintext
 ZJUI_MATH_241/
+├── README.md
+├── Syllabus.pdf       # 课程安排
 ├── Lectures/          # 课程讲义
 │   ├── Lec01.pdf - Lec28.pdf  # 28次课程讲义
 │   ├── Final Review.pdf       # 期末复习资料
@@ -67,19 +69,22 @@ ZJUI_MATH_241/
 │   ├── Multiple Integrals.md/.pdf                 # 多重积分
 │   ├── Vector Calculus.md/.pdf                    # 向量微积分
 │   └── assets/                                    # 笔记中的图片资源
-├── Midterms/           # 期中考试资料
+├── Midterms/          # 期中考试资料
 │   ├── F22_midterm1-A_with_sols.pdf    # 2022秋季期中考试1-A及答案
 │   ├── F22_midterm1-B_with_sols.pdf    # 2022秋季期中考试1-B及答案
 │   ├── F22_midterm1-C_with_sols.pdf    # 2022秋季期中考试1-C及答案
 │   ├── F22_midterm2_with_sols.pdf      # 2022秋季期中考试2及答案
-│   └── sample_midterm1-1_with_sols.pdf - sample_midterm2-2_with_sols.pdf  # 样题及答案
-├── Quiz/               # 小测验
+│   ├── sample_midterm1-1_with_sols.pdf # 样题及答案
+│   └── sample_midterm2-2_with_sols.pdf # 样题及答案
+├── Quiz/              # 小测验
 │   ├── Quiz1_Q.pdf - Quiz12_Q.pdf      # 测验题目
 │   └── Quiz1_A.pdf - Quiz12_A.pdf      # 测验答案
-├── worksheets/         # 练习册
+├── worksheets/        # 练习册
 │   ├── worksheet1_Q.pdf - worksheet12_Q.pdf  # 练习题目
 │   └── worksheet1_A.pdf - worksheet12_A.pdf  # 练习答案
-└── Final/              # 期末考试资料
+├── HW
+│   └── HW1.pdf - HW12.pdf # 作业
+└── Final/             # 期末考试资料
     ├── Final_1_Q.pdf - Final_3_Q.pdf   # 期末考试题目
     ├── Final_1_A.pdf - Final_3_A.pdf   # 期末考试答案
     └── MATH 241.pptx                   # 期末复习PPT
